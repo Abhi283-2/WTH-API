@@ -1,1 +1,2 @@
 # WTH-API
+weatherAPI
